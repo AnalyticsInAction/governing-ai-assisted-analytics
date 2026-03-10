@@ -30,3 +30,7 @@
 ## Copilot Cost
 
 - [Copilot in Power BI - Data Goblins](https://data-goblins.com/power-bi/copilot-in-power-bi)
+
+## Report of Claude Code opening a port, leading to the infection of a computer
+
+- https://www.reddit.com/r/ClaudeCode/comments/1rpr7p8/we_got_hacked/?share_id=yz1PCzOtt1mEm8Y9Sr2GE&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=3
